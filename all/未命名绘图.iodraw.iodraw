@@ -17,28 +17,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-4" value="黄精药材" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="255" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RnvuDXLgewuGlzBTxcLx-6" target="RnvuDXLgewuGlzBTxcLx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-6" value="炮制加工（九蒸九晒）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="335" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-8" value="粉碎过筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="415" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RnvuDXLgewuGlzBTxcLx-8" target="RnvuDXLgewuGlzBTxcLx-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="455" as="sourcePoint" />
-            <mxPoint x="780" y="545" as="targetPoint" />
+            <mxPoint x="740" y="280" as="sourcePoint" />
+            <mxPoint x="740" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RnvuDXLgewuGlzBTxcLx-10" target="RnvuDXLgewuGlzBTxcLx-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-10" value="烘干、脱脂、水提、醇沉、除蛋白、透析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="495" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RnvuDXLgewuGlzBTxcLx-16">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +70,7 @@
           <mxGeometry x="426" y="275" width="78.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RnvuDXLgewuGlzBTxcLx-32" value="冻干保存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="575" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
