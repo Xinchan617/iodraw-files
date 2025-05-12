@@ -104,7 +104,10 @@
           <mxGeometry x="320" y="280" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-35" value="&lt;font face=&quot;仿宋&quot;&gt;粉碎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="285" width="66" height="25" as="geometry" />
+          <mxGeometry x="324" y="285" width="46" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-36" value="&lt;font face=&quot;仿宋&quot;&gt;粉碎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="285" width="46" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
