@@ -181,6 +181,9 @@
         <mxCell id="hPdwHBgqeSHBJFor-e_S-63" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;RAW264.7&lt;/font&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 12px;&quot;&gt;巨噬细胞炎症模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395.5" y="460" width="163" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-64" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;仿宋&quot;&gt;本草考证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
