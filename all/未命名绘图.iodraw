@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OnMLP-hkCdE09nwhZ8Dv">
-    <mxGraphModel dx="474" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,12 +53,12 @@
           <mxGeometry x="320" y="40" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-18" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;仿宋&quot;&gt;本草考证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="50" width="90" height="40" as="geometry" />
+          <mxGeometry x="330" y="50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;仿宋&quot;&gt;黄精多糖相关文献&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hPdwHBgqeSHBJFor-e_S-20" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;九蒸九晒工艺问题&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-20" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;仿宋&quot;&gt;九蒸九晒工艺问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
