@@ -115,11 +115,14 @@
         <mxCell id="hPdwHBgqeSHBJFor-e_S-36" value="&lt;font face=&quot;仿宋&quot;&gt;过筛&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="285" width="46" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hPdwHBgqeSHBJFor-e_S-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hPdwHBgqeSHBJFor-e_S-38" target="hPdwHBgqeSHBJFor-e_S-39">
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPdwHBgqeSHBJFor-e_S-38" target="hPdwHBgqeSHBJFor-e_S-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-38" value="&lt;font face=&quot;仿宋&quot;&gt;烘干&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446.5" y="285" width="46" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPdwHBgqeSHBJFor-e_S-39" target="hPdwHBgqeSHBJFor-e_S-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-39" value="&lt;font face=&quot;仿宋&quot;&gt;脱脂&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="285" width="46" height="25" as="geometry" />
