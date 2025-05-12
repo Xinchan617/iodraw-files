@@ -10,6 +10,9 @@
         <mxCell id="hPdwHBgqeSHBJFor-e_S-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="40" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPdwHBgqeSHBJFor-e_S-4" target="hPdwHBgqeSHBJFor-e_S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hPdwHBgqeSHBJFor-e_S-4" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;文献阅读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="60" width="90" height="40" as="geometry" />
         </mxCell>
