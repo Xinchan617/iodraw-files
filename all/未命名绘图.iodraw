@@ -121,8 +121,14 @@
         <mxCell id="hPdwHBgqeSHBJFor-e_S-40" value="&lt;font face=&quot;仿宋&quot;&gt;水提&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="285" width="46" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hPdwHBgqeSHBJFor-e_S-41" value="&lt;font face=&quot;仿宋&quot;&gt;水提&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-41" value="&lt;font face=&quot;仿宋&quot;&gt;醇沉&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="330" width="46" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-42" value="&lt;font face=&quot;仿宋&quot;&gt;除蛋白&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="330" width="46" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hPdwHBgqeSHBJFor-e_S-43" value="&lt;font face=&quot;仿宋&quot;&gt;醇沉&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="330" width="46" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
