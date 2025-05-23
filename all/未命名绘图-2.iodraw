@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HecDpirKRQ06zA6rbBrm" name="第 2 页">
-    <mxGraphModel dx="59687" dy="47193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="61341" dy="48362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
           <mxGeometry x="320" y="-40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bracket" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="381.25" y="-161.25" width="20" height="342.5" as="geometry" />
+          <mxGeometry x="380.63" y="-160.62" width="20" height="341.25" as="geometry" />
         </mxCell>
         <mxCell id="sample_title" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;样品处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="31" width="120" height="30" as="geometry" />
