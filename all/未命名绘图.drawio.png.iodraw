@@ -323,10 +323,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CFQMAZUgakzbTj4Gu2kI" name="第 3 页">
-    <mxGraphModel dx="1406" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3060" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="title" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;RAW264.7细胞NO检测流程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="step1" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;细胞接种&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;• 对数生长期细胞悬液&lt;br&gt;• 密度5×10³cells/mL&lt;br&gt;• 200μL/孔（96孔板）&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="step2" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;外周孔处理&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;加入等体积PBS缓冲液&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="step3" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;初孵育&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;37°C 5% CO₂ ×24h&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="group" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;实验分组处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="table" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;实验分组配置：&lt;/b&gt;&lt;br&gt;             ▫ 空白组：无血清培养基&lt;br&gt;             ▫ LPS组：1μg/mL LPS&lt;br&gt;             ▫ 药物+LPS组：&lt;br&gt;               • 25/50μg/mL多糖&lt;br&gt;               • S0-S9样品&lt;br&gt;               • 1μg/mL LPS&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="step4" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;药物孵育&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;37°C 5% CO₂ ×24h&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="step5" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;上清液转移&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;100μL转移至新96孔板&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="step6" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;Griess反应&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;A+B试剂各100μL&lt;br&gt;37°C避光×10min&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="step7" value="&lt;font style=&quot;font-size:14px&quot; face=&quot;仿宋&quot;&gt;OD测定&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#666&quot;&gt;570nm波长检测&lt;br&gt;计算NO释放量&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="conn1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step1" target="step2" />
+        <mxCell id="conn2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step2" target="step3" />
+        <mxCell id="conn3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step3" target="group" />
+        <mxCell id="conn4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="group" target="step4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step4" target="step5" />
+        <mxCell id="conn6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step5" target="step6" />
+        <mxCell id="conn7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="step6" target="step7" />
+        <mxCell id="arrow1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
