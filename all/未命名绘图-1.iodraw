@@ -229,6 +229,9 @@
         <mxCell id="wLuwcTX_CDxlg0DBhSoV-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;样品柱前衍生化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="670" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wLuwcTX_CDxlg0DBhSoV-2" value="" style="rectangle;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="310" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
