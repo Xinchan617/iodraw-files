@@ -496,12 +496,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EGXzX1HiY-i_g1Mgr7wS" name="第 5 页">
-    <mxGraphModel dx="13232" dy="7753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18194" dy="10091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r4J5qDFHZk6-EOJ9eo-M-1" value="" style="rectangle;whiteSpace=wrap;html=1;align=center;dashed=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="250" width="470" height="220" as="geometry" />
+          <mxGeometry x="-12.5" y="132.5" width="265" height="250" as="geometry" />
         </mxCell>
         <mxCell id="title" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;九蒸九晒黄精炮制及多糖提取流程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="20" width="300" height="40" as="geometry" />
