@@ -496,7 +496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EGXzX1HiY-i_g1Mgr7wS" name="第 5 页">
-    <mxGraphModel dx="18337" dy="20306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="19991" dy="21475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,7 +557,7 @@
         <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e4" target="e5" />
         <mxCell id="c10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e5" target="e6" />
         <mxCell id="note1" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;关键工艺参数：&lt;/b&gt;             ▫ 蒸晒循环次数：1-9次&lt;br&gt;             ▫ 乙醇浓度梯度：95%→80%&lt;br&gt;             ▫ 离心参数：4000rpm×10min&lt;br&gt;             ▫ 透析条件：20°C流动水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;size=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="180" height="120" as="geometry" />
+          <mxGeometry x="460" y="220" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="note2" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;特殊处理说明：&lt;/b&gt;             ▫ 重复提取：2次水提合并上清&lt;br&gt;             ▫ 二次醇沉：延长至24h&lt;br&gt;             ▫ 透析换水：每3h更换超纯水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;size=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="180" height="100" as="geometry" />
