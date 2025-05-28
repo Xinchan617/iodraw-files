@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="-eB76UqXANzR5SbnmeNG">
-    <mxGraphModel dx="4502" dy="2966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15894" dy="8985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,54 +65,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yyEVymQs_YFe0xDPVxq-" name="第 2 页">
-    <mxGraphModel dx="6156" dy="4135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11392" dy="7188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="core" value="&lt;font style=&quot;font-size:20px&quot; face=&quot;仿宋&quot;&gt;九蒸九晒黄精研究总结&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#2E7D32;fillColor=#C8E6C9;" vertex="1" parent="1">
+        <mxCell id="core" value="&lt;font style=&quot;font-size:20px&quot; face=&quot;仿宋&quot;&gt;九蒸九晒黄精研究总结&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#2E7D32;fillColor=#C8E6C9;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="limit" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;研究局限性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D32F2F;fillColor=#FFCDD2;" vertex="1" parent="1">
+        <mxCell id="limit" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;研究局限性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D32F2F;fillColor=#FFCDD2;" parent="1" vertex="1">
           <mxGeometry x="100" y="150" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;模型局限&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 仅细胞水平验证&lt;br&gt;• 缺乏体内模型&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l1" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;模型局限&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 仅细胞水平验证&lt;br&gt;• 缺乏体内模型&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="l2" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;机制深度&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 信号通路未解析&lt;br&gt;• 受体靶点不明确&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;机制深度&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 信号通路未解析&lt;br&gt;• 受体靶点不明确&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="l3" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;工艺参数&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 温度梯度未优化&lt;br&gt;• 干燥方式单一&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l3" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;工艺参数&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 温度梯度未优化&lt;br&gt;• 干燥方式单一&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="240" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="l4" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;质量标准&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 缺乏指纹图谱&lt;br&gt;• 质控指标不足&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l4" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;质量标准&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 缺乏指纹图谱&lt;br&gt;• 质控指标不足&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="360" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="future" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;未来研究方向&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1976D2;fillColor=#BBDEFB;" vertex="1" parent="1">
+        <mxCell id="future" value="&lt;font style=&quot;font-size:18px&quot; face=&quot;仿宋&quot;&gt;未来研究方向&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1976D2;fillColor=#BBDEFB;" parent="1" vertex="1">
           <mxGeometry x="500" y="150" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f1" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;实验拓展&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 建立动物模型&lt;br&gt;• 药代动力学研究&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f1" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;实验拓展&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 建立动物模型&lt;br&gt;• 药代动力学研究&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="f2" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;机制探索&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 肠道菌群调控&lt;br&gt;• 免疫信号通路&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;机制探索&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 肠道菌群调控&lt;br&gt;• 免疫信号通路&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="360" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="f3" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;结构优化&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 定向结构修饰&lt;br&gt;• 构效关系解析&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;结构优化&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 定向结构修饰&lt;br&gt;• 构效关系解析&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="240" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="f4" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;应用开发&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 炮制工艺标准&lt;br&gt;• 功能产品开发&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f4" value="&lt;font style=&quot;font-size:16px&quot; face=&quot;仿宋&quot;&gt;应用开发&lt;br&gt;&lt;span style=&quot;font-size:14px;color:#666&quot;&gt;• 炮制工艺标准&lt;br&gt;• 功能产品开发&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="360" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#616161;" edge="1" parent="1" source="core" target="limit" />
-        <mxCell id="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#616161;" edge="1" parent="1" source="core" target="future" />
-        <mxCell id="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" edge="1" parent="1" source="limit" target="l1" />
-        <mxCell id="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" edge="1" parent="1" source="limit" target="l2" />
-        <mxCell id="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" edge="1" parent="1" source="limit" target="l3" />
-        <mxCell id="c6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" edge="1" parent="1" source="limit" target="l4" />
-        <mxCell id="c7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" edge="1" parent="1" source="future" target="f1" />
-        <mxCell id="c8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" edge="1" parent="1" source="future" target="f2" />
-        <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" edge="1" parent="1" source="future" target="f3" />
-        <mxCell id="c10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" edge="1" parent="1" source="future" target="f4" />
-        <mxCell id="d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#8BC34A;" edge="1" parent="1">
+        <mxCell id="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#616161;" parent="1" source="core" target="limit" edge="1" />
+        <mxCell id="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#616161;" parent="1" source="core" target="future" edge="1" />
+        <mxCell id="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" parent="1" source="limit" target="l1" edge="1" />
+        <mxCell id="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" parent="1" source="limit" target="l2" edge="1" />
+        <mxCell id="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" parent="1" source="limit" target="l3" edge="1" />
+        <mxCell id="c6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#D32F2F;" parent="1" source="limit" target="l4" edge="1" />
+        <mxCell id="c7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" parent="1" source="future" target="f1" edge="1" />
+        <mxCell id="c8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" parent="1" source="future" target="f2" edge="1" />
+        <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" parent="1" source="future" target="f3" edge="1" />
+        <mxCell id="c10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#1976D2;" parent="1" source="future" target="f4" edge="1" />
+        <mxCell id="d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=classic;endFill=1;strokeWidth=2;strokeColor=#8BC34A;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="179.5" as="sourcePoint" />
             <mxPoint x="460" y="179.5" as="targetPoint" />
