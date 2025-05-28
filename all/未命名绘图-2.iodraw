@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="-eB76UqXANzR5SbnmeNG">
-    <mxGraphModel dx="137860" dy="117639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="141168" dy="119977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
         <mxCell id="c8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e3" target="e4" />
         <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e4" target="e5" />
         <mxCell id="c10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e5" target="e6" />
-        <mxCell id="note1" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;关键工艺参数：&lt;/b&gt;             ▫ 蒸晒循环次数：1-9次&lt;br&gt;             ▫ 乙醇浓度梯度：95%→80%&lt;br&gt;             ▫ 离心参数：4000rpm×10min&lt;br&gt;             ▫ 透析条件：20°C流动水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;" vertex="1" parent="1">
+        <mxCell id="note1" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;关键工艺参数：&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;&amp;nbsp;▫ 蒸晒循环次数：1-9次&lt;br&gt;             ▫ 乙醇浓度梯度：95%→80%&lt;br&gt;             ▫ 离心参数：4000rpm×10min&lt;br&gt;             ▫ 透析条件：20°C流动水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="note2" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;特殊处理说明：&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;&amp;nbsp;▫ 重复提取：2次水提合并上清&lt;br&gt;             ▫ 二次醇沉：延长至24h&lt;br&gt;             ▫ 透析换水：每3h更换超纯水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;size=8;" vertex="1" parent="1">
+        <mxCell id="note2" value="&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;             &lt;b&gt;特殊处理说明：&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.4&quot;&gt;&amp;nbsp;▫ 重复提取：2次水提合并上清&lt;br&gt;             ▫ 二次醇沉：延长至24h&lt;br&gt;             ▫ 透析换水：每3h更换超纯水&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=30;size=25;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AdE_7bYLdIeVwz3wueuP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
